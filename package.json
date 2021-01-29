@@ -1,0 +1,20 @@
+{
+  "name": "@tboerc/react-native-tab-navigator",
+  "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
+  "version": "1.0.6",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tboerc/react-native-tab-navigator"
+  },
+  "keywords": [
+    "react-native",
+    "tab-bar",
+    "navigator",
+    "ios",
+    "android"
+  ],
+  "author": "tboerc",
+  "license": "MIT",
+  "dependencies": {}
+}
